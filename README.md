@@ -1,4 +1,4 @@
-# Python Notes and Restaurant Example
+# Python Notes and Mini Projects 
 
 ## Python Notes
 This repository contains my day-to-day notes on Python, including basic knowledge in Python programming and Data Structures and Algorithms (DSA). It serves as a reference for Python syntax, common data structures, and algorithms implementation.
